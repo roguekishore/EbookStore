@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/Ebookstore/static/css/main.486a72c2.css",
-    "main.js": "/Ebookstore/static/js/main.de841174.js",
+    "main.js": "/Ebookstore/static/js/main.1c03747d.js",
     "static/js/453.8dde7901.chunk.js": "/Ebookstore/static/js/453.8dde7901.chunk.js",
     "static/media/bg1.jpg": "/Ebookstore/static/media/bg1.96094c3994a407b8ae03.jpg",
-    "static/media/prof.jpg": "/Ebookstore/static/media/prof.978b67bfc43015e98fa9.jpg",
     "static/media/batmantitle1.png": "/Ebookstore/static/media/batmantitle1.29102581c28b7a870cd2.png",
     "static/media/batmanchar.png": "/Ebookstore/static/media/batmanchar.47643e24e98c46102e8f.png",
     "static/media/lib.jpeg": "/Ebookstore/static/media/lib.dc653fe1867707fa2e3c.jpeg",
@@ -13,11 +12,11 @@
     "static/media/batman.jpg": "/Ebookstore/static/media/batman.a7046ee58d5e05ba09c4.jpg",
     "index.html": "/Ebookstore/index.html",
     "main.486a72c2.css.map": "/Ebookstore/static/css/main.486a72c2.css.map",
-    "main.de841174.js.map": "/Ebookstore/static/js/main.de841174.js.map",
+    "main.1c03747d.js.map": "/Ebookstore/static/js/main.1c03747d.js.map",
     "453.8dde7901.chunk.js.map": "/Ebookstore/static/js/453.8dde7901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.486a72c2.css",
-    "static/js/main.de841174.js"
+    "static/js/main.1c03747d.js"
   ]
 }
