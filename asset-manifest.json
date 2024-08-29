@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/Ebookstore/static/css/main.486a72c2.css",
-    "main.js": "/Ebookstore/static/js/main.1c03747d.js",
+    "main.css": "/Ebookstore/static/css/main.43fe3dab.css",
+    "main.js": "/Ebookstore/static/js/main.f6e06494.js",
     "static/js/453.8dde7901.chunk.js": "/Ebookstore/static/js/453.8dde7901.chunk.js",
-    "static/media/bg1.jpg": "/Ebookstore/static/media/bg1.96094c3994a407b8ae03.jpg",
     "static/media/batmantitle1.png": "/Ebookstore/static/media/batmantitle1.29102581c28b7a870cd2.png",
+    "static/media/boxicons.svg": "/Ebookstore/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/batmanchar.png": "/Ebookstore/static/media/batmanchar.47643e24e98c46102e8f.png",
     "static/media/lib.jpeg": "/Ebookstore/static/media/lib.dc653fe1867707fa2e3c.jpeg",
     "static/media/fiverings.jpg": "/Ebookstore/static/media/fiverings.2b2b09bb470d7a1c08d8.jpg",
+    "static/media/boxicons.eot": "/Ebookstore/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/Ebookstore/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/Ebookstore/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/cloud.jpeg": "/Ebookstore/static/media/cloud.692362881837acda8b04.jpeg",
+    "static/media/IBMPlexMono-SemiBold.ttf": "/Ebookstore/static/media/IBMPlexMono-SemiBold.5f82c3b8863d23615092.ttf",
+    "static/media/boxicons.woff2": "/Ebookstore/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "static/media/monk.webp": "/Ebookstore/static/media/monk.f56b4b71790f3438f25c.webp",
     "static/media/batman.jpg": "/Ebookstore/static/media/batman.a7046ee58d5e05ba09c4.jpg",
+    "static/media/MonumentExtended-Regular.otf": "/Ebookstore/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
     "index.html": "/Ebookstore/index.html",
-    "main.486a72c2.css.map": "/Ebookstore/static/css/main.486a72c2.css.map",
-    "main.1c03747d.js.map": "/Ebookstore/static/js/main.1c03747d.js.map",
+    "main.43fe3dab.css.map": "/Ebookstore/static/css/main.43fe3dab.css.map",
+    "main.f6e06494.js.map": "/Ebookstore/static/js/main.f6e06494.js.map",
     "453.8dde7901.chunk.js.map": "/Ebookstore/static/js/453.8dde7901.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.486a72c2.css",
-    "static/js/main.1c03747d.js"
+    "static/css/main.43fe3dab.css",
+    "static/js/main.f6e06494.js"
   ]
 }
