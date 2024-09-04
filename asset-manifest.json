@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ebookstore/static/css/main.adabb5b6.css",
-    "main.js": "/Ebookstore/static/js/main.a34f981b.js",
+    "main.js": "/Ebookstore/static/js/main.96ec4bbb.js",
     "static/media/batmantitle1.png": "/Ebookstore/static/media/batmantitle1.29102581c28b7a870cd2.png",
     "static/media/boxicons.svg": "/Ebookstore/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/batmanchar.png": "/Ebookstore/static/media/batmanchar.47643e24e98c46102e8f.png",
@@ -42,10 +42,10 @@
     "static/media/Sun Tzu -The art of War.jpg": "/Ebookstore/static/media/Sun Tzu -The art of War.8ec61a504b58065d7b44.jpg",
     "index.html": "/Ebookstore/index.html",
     "main.adabb5b6.css.map": "/Ebookstore/static/css/main.adabb5b6.css.map",
-    "main.a34f981b.js.map": "/Ebookstore/static/js/main.a34f981b.js.map"
+    "main.96ec4bbb.js.map": "/Ebookstore/static/js/main.96ec4bbb.js.map"
   },
   "entrypoints": [
     "static/css/main.adabb5b6.css",
-    "static/js/main.a34f981b.js"
+    "static/js/main.96ec4bbb.js"
   ]
 }
